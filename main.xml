@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE xep SYSTEM 'xep.dtd' [
+<!ENTITY % ents SYSTEM 'xep.ent'>
+%ents;
+<!ENTITY actor "&lt;actor/&gt;">
+<!ENTITY invalidactor "&lt;invalid-actor/&gt;">
+<!ENTITY invalidnode "&lt;invalid-node/&gt;">
+]>
+<?xml-stylesheet type='text/xsl' href='xep.xsl'?>
+<xep>
+    <xi:include href="sections/header.xml" xmlns:xi="http://www.w3.org/2001/XInclude" parse="xml" />
+    <xi:include href="sections/10.intro.xml" xmlns:xi="http://www.w3.org/2001/XInclude" parse="xml" />
+    <xi:include href="sections/30.discovery.xml" xmlns:xi="http://www.w3.org/2001/XInclude" parse="xml" />
+    <xi:include href="sections/90.security.xml" xmlns:xi="http://www.w3.org/2001/XInclude" parse="xml" />
+</xep>

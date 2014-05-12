@@ -1,0 +1,9 @@
+<section1 topic="Security Considerations" anchor="security-considerations">
+	<section2 topic="Server Trust" anchor="server-trust">
+		<p>
+			It is advisable to offer the endpoint on HTTPS
+      
+      Federation issues?
+     </p> 
+	</section2>
+</section1>

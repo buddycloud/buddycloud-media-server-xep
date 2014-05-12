@@ -1,0 +1,29 @@
+<header>
+    <title>Channels Media Server</title>
+    <abstract>This document describes a method to share files inside buddycloud channels</abstract>
+    <number>xxxx</number>
+    <status>ProtoXEP</status>
+    <type>Standards Track</type>
+    <sig>Standards</sig>
+    <approver>Council</approver>
+    <revision>
+        <version>0.0.1</version>
+        <date>{{DATE}}</date>
+        <initials>sdt</initials>
+        <remark>
+            <p>First draft.</p>
+        </remark>
+    </revision>
+    <shortname>NOT_YET_ASSIGNED</shortname>
+    <xi:include href="legal-guff.xml" xmlns:xi="http://www.w3.org/2001/XInclude" parse="xml" />
+    <dependencies>
+        <spec>XMPP Core</spec>
+        <spec>XEP-0077</spec>
+        <spec>XEP-0060</spec>
+    </dependencies>
+    <supersedes />
+    <supersededby />
+    <xi:include href="authors/simon-tennant.xml" xmlns:xi="http://www.w3.org/2001/XInclude" parse="xml" />
+    <xi:include href="authors/lloyd-watkin.xml" xmlns:xi="http://www.w3.org/2001/XInclude" parse="xml" />
+    <xi:include href="authors/abmar-barros.xml" xmlns:xi="http://www.w3.org/2001/XInclude" parse="xml" />
+</header>
